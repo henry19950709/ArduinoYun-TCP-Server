@@ -4,7 +4,7 @@
 
 #define PORT 6666
 YunServer server(PORT); 
-//need to know the internal ip of Yun
+//Make sure you know the IP of Yun
 int button=13;
 int val=-1;
 String push_flag="0";
