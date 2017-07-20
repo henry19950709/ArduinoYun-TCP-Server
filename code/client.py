@@ -2,7 +2,7 @@ import socket
 
 
 TCP_IP = '192.168.0.18'   #Arduino Yun IP
-TCP_PORT = 6666
+TCP_PORT = 6666  #self-defined port
 BUFFER_SIZE = 1024
 MESSAGE = "Hello, World!"
 
